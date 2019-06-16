@@ -17,4 +17,4 @@ http://jonathanpeelle.net/blog/2016/01/07/maintaining-a-lab-manual from http://t
 https://ccmorey.github.io/labHandbook/ from http://twitter.com/candicemorey
 https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY/edit from http://twitter.com/talialerner
 
-People should feel free to add other links to this document and pdfs, docs etc to the repo. Have fun!
+Please feel free to add other links to this document and pdfs, docs etc to the repo (in the `example_handbooks` directory).
