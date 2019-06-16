@@ -1,5 +1,6 @@
 This is a markdown version of this twitter thread: https://twitter.com/samuelmehr/status/1139733291899080705?s=20.
 It is an attempt to summarize the topics that people write about in lab handbooks.
+Please feel free to edit this document.
 
 # MISSION STATEMENT
 research goals; philosophy of how the lab works; chronological and academic history of the lab; ideas about future projects; why we do what we do
