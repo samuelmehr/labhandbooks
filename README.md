@@ -27,4 +27,6 @@ https://ccmorey.github.io/labHandbook/ from http://twitter.com/candicemorey
 
 https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY/edit from http://twitter.com/talialerner
 
+https://docs.google.com/document/d/18yBu_QkkelNs7WhBjBWUeJCScDlEKmEjlYVS64sAAb0/edit from UBC Hamlin lab
+
 Please feel free to add other links to this document and pdfs, docs etc to the repo (in the `example_handbooks` directory).
