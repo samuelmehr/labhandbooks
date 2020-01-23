@@ -1,10 +1,10 @@
 # handbooks
 This is a public repo for keeping track of the sorts of things people put in lab handbooks. It comes from this twitter thread: https://twitter.com/samuelmehr/status/1139733291899080705?s=20. The file **topics.md** is a copy of the twitter thread.
 
-# lab manual template
+## lab manual template
 Balazs Aczel and a group at https://improvingpsych.org/ put together a publicly available lab manual template at https://bit.ly/2FdVt8F. That Google Document also contains links to many other lab handbooks.
 
-# list of links to publicly available handbooks
+## list of links to publicly available handbooks
 Below are some links I used to compile the original list. Please feel free to suggest other links to add to this document or submit docs to the repo (in the `example_handbooks` directory) by sending them to me (sam@wjh.harvard.edu) or by submitting a pull request.
 
 https://github.com/alylab/labmanual from http://twitter.com/mariam_s_aly
