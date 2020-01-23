@@ -5,7 +5,7 @@ This is a public repo for keeping track of the sorts of things people put in lab
 Balazs Aczel and a group at https://improvingpsych.org/ put together a publicly available lab manual template at https://bit.ly/2FdVt8F. That Google Document also contains links to many other lab handbooks.
 
 # list of links to publicly available handbooks
-Here are some links I used to compile the original list:
+Below are some links I used to compile the original list. Please feel free to suggest other links to add to this document or submit docs to the repo (in the `example_handbooks` directory) by sending them to me (sam@wjh.harvard.edu) or by submitting a pull request.
 
 https://github.com/alylab/labmanual from http://twitter.com/mariam_s_aly
 
@@ -29,4 +29,4 @@ https://docs.google.com/document/d/1phmA17c_hkAfLZN1yMXtFlCYlEqXEc8izEQsfoqgdTY/
 
 https://docs.google.com/document/d/18yBu_QkkelNs7WhBjBWUeJCScDlEKmEjlYVS64sAAb0/edit from UBC Hamlin lab
 
-Please feel free to suggest other links to add to this document or submit docs to the repo (in the `example_handbooks` directory) by sending them to me (sam@wjh.harvard.edu) or by submitting a pull request.
+http://l3atbc.org/L3Manual.pdf from Josh Hartshorne
