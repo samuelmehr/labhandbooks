@@ -1,6 +1,8 @@
 # handbooks
 This is a public repo for keeping track of the sorts of things people put in lab handbooks. It comes from this twitter thread: https://twitter.com/samuelmehr/status/1139733291899080705?s=20. The file **topics.md** is a copy of the twitter thread.
 
+I published an article about all this in *The Biologist*, which you can read at https://thebiologist.rsb.org.uk/biologist-features/158-biologist/features/2299-how-to-write-a-lab-handbook.
+
 ## lab manual template
 Balazs Aczel and a group at https://improvingpsych.org/ put together a publicly available lab manual template at https://bit.ly/2FdVt8F. That Google Document also contains links to many other lab handbooks.
 
